@@ -12,14 +12,18 @@
       <header>
         <nav class="clear">
           <ul>
-            <li><a href="#">over de Boek</a></li>
+            <li><a href="#">About The Boek</a></li>
             <li><a href="#">CSS Properties</a></li>
-            <li><a href="#">CSS Tricks</a></li>
+            <li><a href="#">CSS Tips</a></li>
             <li><a href="#">CSS Gotchas</a></li>
             <li><a href="#">Contact Us</a></li>
           </ul>
         </nav>
-        <h1>CSS3+html: The missing manuals</h1>
+<<<<<<< HEAD
+        <h1>CSS3: The Missing Manual</h1>
+=======
+        <h1>CSS3+html: The Misssing Manual</h1>
+>>>>>>> 7763ce0e38f8e78fec0d7effed9b9cbb5d3eb6e8
       </header>
       <div class="contentWrapper">
         <div class="columnWrapper">
